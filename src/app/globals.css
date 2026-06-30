@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #4179F0;
+  --color-primary-dark: #3461C7;
+  --color-primary-light: #F0F5FE;
+  --color-star: #FFB800;
+  --font-sans: 'Vazirmatn', system-ui, sans-serif;
+}
+
+:root { direction: rtl; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Vazirmatn', system-ui, sans-serif;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
