@@ -17,7 +17,7 @@
 - **Next.js API Routes**
 - **MongoDB** + **Mongoose**
 - **JWT** (احراز هویت)
-- **Kavenegar / SMS.ir** (ارسال SMS)
+- **SMS.ir** (ارسال SMS)
 
 ---
 
